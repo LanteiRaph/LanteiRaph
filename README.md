@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lantei Raphael
 - 👀 I’m interested in developinbg fast scaleble web apllication to solve world problems 
-- 🌱 I’m currently learning Pytho
+- 🌱 Python developer with love for automation
 - 💞️ I’m looking to collaborate on projects that help solve world problems
 - 📫 How to reach me: santamulantei8gmail.com
 
